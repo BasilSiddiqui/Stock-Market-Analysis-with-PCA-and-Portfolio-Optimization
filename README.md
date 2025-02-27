@@ -78,4 +78,3 @@ This repository contains various analyses and visualizations related to financia
 ![Autocorrelation of Residuals](images/Autocorrection%20of%20residuals.png)
 
 ---
-Make sure the images are inside an `images` folder in your repository for this to work. Let me know if you need modifications! 🚀
