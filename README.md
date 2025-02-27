@@ -52,3 +52,30 @@ pip install pandas numpy matplotlib seaborn scipy sklearn
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+# Financial Data Analysis
+
+This repository contains various analyses and visualizations related to financial data.
+
+## Visualizations
+
+### Cumulative Returns
+![Cumulative Returns](images/Cumulative%20returns%20cac40.png)
+
+### Log Returns
+![Log Returns](images/Log%20returns.png)
+
+### Principal Component Analysis (PCA) Returns
+![PC1 Returns](images/PC1%20returns.png)
+
+### Portfolio vs Index Performance
+![Portfolio vs Index](images/portfolio_vs_index_cumulative_returns.png)
+
+### Residual Analysis
+![Residuals vs Fitted Values](images/Residuals%20vs%20Fitted%20values.png)
+
+### Autocorrelation of Residuals
+![Autocorrelation of Residuals](images/Autocorrection%20of%20residuals.png)
+
+---
+Make sure the images are inside an `images` folder in your repository for this to work. Let me know if you need modifications! 🚀
