@@ -17,21 +17,6 @@ Ensure you have the following Python libraries installed:
 pip install pandas numpy matplotlib seaborn scipy sklearn
 ```
 
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo
-   ```
-3. Run the main script:
-   ```bash
-   python analysis.py
-   ```
-4. View generated CSV files and visualizations in the output directory.
-
 ## File Structure
 ```
 📂 Project Folder
@@ -46,9 +31,6 @@ pip install pandas numpy matplotlib seaborn scipy sklearn
 - Principal Component Loadings and Explained Variance
 - Portfolio Performance Compared to Market Index
 - Visualization of Market Trends and Risk Factors
-
-## Contributors
-- **Basil Rehan** - Data Scientist & Actuarial Student
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
