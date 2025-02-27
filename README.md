@@ -32,9 +32,6 @@ pip install pandas numpy matplotlib seaborn scipy sklearn
 - Portfolio Performance Compared to Market Index
 - Visualization of Market Trends and Risk Factors
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 # Financial Data Analysis
 
 This repository contains various analyses and visualizations related to financial data.
